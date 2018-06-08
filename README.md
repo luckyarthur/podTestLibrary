@@ -21,8 +21,7 @@ pod 'podTestLib'
 ```
 
 ## Author
-
-李扬, ly26@meitu.com
+Arthur, Geek_Bang@163.com
 
 ## License
 
